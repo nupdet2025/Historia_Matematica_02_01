@@ -73,7 +73,7 @@ gdjs.evtsExt__ObjectStack__ObjectStack.ObjectStack.prototype.onCreatedContext.GD
 gdjs.evtsExt__ObjectStack__ObjectStack.ObjectStack.prototype.onCreatedContext.GDObjectObjects2= [];
 
 
-gdjs.evtsExt__ObjectStack__ObjectStack.ObjectStack.prototype.onCreatedContext.userFunc0xa51530 = function GDJSInlineCode(runtimeScene, objects, eventsFunctionContext) {
+gdjs.evtsExt__ObjectStack__ObjectStack.ObjectStack.prototype.onCreatedContext.userFunc0xf67988 = function GDJSInlineCode(runtimeScene, objects, eventsFunctionContext) {
 "use strict";
 const ObjectStack = gdjs._objectStackExtension.ObjectStack;
 
@@ -113,7 +113,7 @@ gdjs.copyArray(eventsFunctionContext.getObjects("Object"), gdjs.evtsExt__ObjectS
 
 var objects = [];
 objects.push.apply(objects,gdjs.evtsExt__ObjectStack__ObjectStack.ObjectStack.prototype.onCreatedContext.GDObjectObjects1);
-gdjs.evtsExt__ObjectStack__ObjectStack.ObjectStack.prototype.onCreatedContext.userFunc0xa51530(runtimeScene, objects, typeof eventsFunctionContext !== 'undefined' ? eventsFunctionContext : undefined);
+gdjs.evtsExt__ObjectStack__ObjectStack.ObjectStack.prototype.onCreatedContext.userFunc0xf67988(runtimeScene, objects, typeof eventsFunctionContext !== 'undefined' ? eventsFunctionContext : undefined);
 
 }
 
@@ -196,7 +196,7 @@ gdjs.evtsExt__ObjectStack__ObjectStack.ObjectStack.prototype.onDestroyContext = 
 gdjs.evtsExt__ObjectStack__ObjectStack.ObjectStack.prototype.onDestroyContext.GDObjectObjects1= [];
 
 
-gdjs.evtsExt__ObjectStack__ObjectStack.ObjectStack.prototype.onDestroyContext.userFunc0xa522c8 = function GDJSInlineCode(runtimeScene, objects, eventsFunctionContext) {
+gdjs.evtsExt__ObjectStack__ObjectStack.ObjectStack.prototype.onDestroyContext.userFunc0x906e30 = function GDJSInlineCode(runtimeScene, objects, eventsFunctionContext) {
 "use strict";
 const object = objects[0];
 const behaviorName = eventsFunctionContext.getBehaviorName("Behavior");
@@ -213,7 +213,7 @@ gdjs.copyArray(eventsFunctionContext.getObjects("Object"), gdjs.evtsExt__ObjectS
 
 var objects = [];
 objects.push.apply(objects,gdjs.evtsExt__ObjectStack__ObjectStack.ObjectStack.prototype.onDestroyContext.GDObjectObjects1);
-gdjs.evtsExt__ObjectStack__ObjectStack.ObjectStack.prototype.onDestroyContext.userFunc0xa522c8(runtimeScene, objects, typeof eventsFunctionContext !== 'undefined' ? eventsFunctionContext : undefined);
+gdjs.evtsExt__ObjectStack__ObjectStack.ObjectStack.prototype.onDestroyContext.userFunc0x906e30(runtimeScene, objects, typeof eventsFunctionContext !== 'undefined' ? eventsFunctionContext : undefined);
 
 }
 
@@ -295,7 +295,7 @@ gdjs.evtsExt__ObjectStack__ObjectStack.ObjectStack.prototype.AddOnTopContext.GDO
 gdjs.evtsExt__ObjectStack__ObjectStack.ObjectStack.prototype.AddOnTopContext.GDElementsObjects1= [];
 
 
-gdjs.evtsExt__ObjectStack__ObjectStack.ObjectStack.prototype.AddOnTopContext.userFunc0xa52328 = function GDJSInlineCode(runtimeScene, objects, eventsFunctionContext) {
+gdjs.evtsExt__ObjectStack__ObjectStack.ObjectStack.prototype.AddOnTopContext.userFunc0xf50028 = function GDJSInlineCode(runtimeScene, objects, eventsFunctionContext) {
 "use strict";
 const object = objects[0];
 const behaviorName = eventsFunctionContext.getBehaviorName("Behavior");
@@ -318,7 +318,7 @@ gdjs.copyArray(eventsFunctionContext.getObjects("Object"), gdjs.evtsExt__ObjectS
 
 var objects = [];
 objects.push.apply(objects,gdjs.evtsExt__ObjectStack__ObjectStack.ObjectStack.prototype.AddOnTopContext.GDObjectObjects1);
-gdjs.evtsExt__ObjectStack__ObjectStack.ObjectStack.prototype.AddOnTopContext.userFunc0xa52328(runtimeScene, objects, typeof eventsFunctionContext !== 'undefined' ? eventsFunctionContext : undefined);
+gdjs.evtsExt__ObjectStack__ObjectStack.ObjectStack.prototype.AddOnTopContext.userFunc0xf50028(runtimeScene, objects, typeof eventsFunctionContext !== 'undefined' ? eventsFunctionContext : undefined);
 
 }
 
@@ -404,7 +404,7 @@ gdjs.evtsExt__ObjectStack__ObjectStack.ObjectStack.prototype.InsertContext.GDObj
 gdjs.evtsExt__ObjectStack__ObjectStack.ObjectStack.prototype.InsertContext.GDElementsObjects1= [];
 
 
-gdjs.evtsExt__ObjectStack__ObjectStack.ObjectStack.prototype.InsertContext.userFunc0xa52660 = function GDJSInlineCode(runtimeScene, objects, eventsFunctionContext) {
+gdjs.evtsExt__ObjectStack__ObjectStack.ObjectStack.prototype.InsertContext.userFunc0xf50b18 = function GDJSInlineCode(runtimeScene, objects, eventsFunctionContext) {
 "use strict";
 const object = objects[0];
 const behaviorName = eventsFunctionContext.getBehaviorName("Behavior");
@@ -434,7 +434,7 @@ gdjs.copyArray(eventsFunctionContext.getObjects("Object"), gdjs.evtsExt__ObjectS
 
 var objects = [];
 objects.push.apply(objects,gdjs.evtsExt__ObjectStack__ObjectStack.ObjectStack.prototype.InsertContext.GDObjectObjects1);
-gdjs.evtsExt__ObjectStack__ObjectStack.ObjectStack.prototype.InsertContext.userFunc0xa52660(runtimeScene, objects, typeof eventsFunctionContext !== 'undefined' ? eventsFunctionContext : undefined);
+gdjs.evtsExt__ObjectStack__ObjectStack.ObjectStack.prototype.InsertContext.userFunc0xf50b18(runtimeScene, objects, typeof eventsFunctionContext !== 'undefined' ? eventsFunctionContext : undefined);
 
 }
 
@@ -521,7 +521,7 @@ gdjs.evtsExt__ObjectStack__ObjectStack.ObjectStack.prototype.RemoveContext.GDObj
 gdjs.evtsExt__ObjectStack__ObjectStack.ObjectStack.prototype.RemoveContext.GDElementsObjects1= [];
 
 
-gdjs.evtsExt__ObjectStack__ObjectStack.ObjectStack.prototype.RemoveContext.userFunc0xa52648 = function GDJSInlineCode(runtimeScene, objects, eventsFunctionContext) {
+gdjs.evtsExt__ObjectStack__ObjectStack.ObjectStack.prototype.RemoveContext.userFunc0xf50a80 = function GDJSInlineCode(runtimeScene, objects, eventsFunctionContext) {
 "use strict";
 const object = objects[0];
 const behaviorName = eventsFunctionContext.getBehaviorName("Behavior");
@@ -541,7 +541,7 @@ gdjs.copyArray(eventsFunctionContext.getObjects("Object"), gdjs.evtsExt__ObjectS
 
 var objects = [];
 objects.push.apply(objects,gdjs.evtsExt__ObjectStack__ObjectStack.ObjectStack.prototype.RemoveContext.GDObjectObjects1);
-gdjs.evtsExt__ObjectStack__ObjectStack.ObjectStack.prototype.RemoveContext.userFunc0xa52648(runtimeScene, objects, typeof eventsFunctionContext !== 'undefined' ? eventsFunctionContext : undefined);
+gdjs.evtsExt__ObjectStack__ObjectStack.ObjectStack.prototype.RemoveContext.userFunc0xf50a80(runtimeScene, objects, typeof eventsFunctionContext !== 'undefined' ? eventsFunctionContext : undefined);
 
 }
 
@@ -626,7 +626,7 @@ gdjs.evtsExt__ObjectStack__ObjectStack.ObjectStack.prototype.ClearContext = {};
 gdjs.evtsExt__ObjectStack__ObjectStack.ObjectStack.prototype.ClearContext.GDObjectObjects1= [];
 
 
-gdjs.evtsExt__ObjectStack__ObjectStack.ObjectStack.prototype.ClearContext.userFunc0xa525e8 = function GDJSInlineCode(runtimeScene, objects, eventsFunctionContext) {
+gdjs.evtsExt__ObjectStack__ObjectStack.ObjectStack.prototype.ClearContext.userFunc0xf509d0 = function GDJSInlineCode(runtimeScene, objects, eventsFunctionContext) {
 "use strict";
 const object = objects[0];
 const behaviorName = eventsFunctionContext.getBehaviorName("Behavior");
@@ -642,7 +642,7 @@ gdjs.copyArray(eventsFunctionContext.getObjects("Object"), gdjs.evtsExt__ObjectS
 
 var objects = [];
 objects.push.apply(objects,gdjs.evtsExt__ObjectStack__ObjectStack.ObjectStack.prototype.ClearContext.GDObjectObjects1);
-gdjs.evtsExt__ObjectStack__ObjectStack.ObjectStack.prototype.ClearContext.userFunc0xa525e8(runtimeScene, objects, typeof eventsFunctionContext !== 'undefined' ? eventsFunctionContext : undefined);
+gdjs.evtsExt__ObjectStack__ObjectStack.ObjectStack.prototype.ClearContext.userFunc0xf509d0(runtimeScene, objects, typeof eventsFunctionContext !== 'undefined' ? eventsFunctionContext : undefined);
 
 }
 
@@ -724,7 +724,7 @@ gdjs.evtsExt__ObjectStack__ObjectStack.ObjectStack.prototype.MoveIntoContext.GDO
 gdjs.evtsExt__ObjectStack__ObjectStack.ObjectStack.prototype.MoveIntoContext.GDStackObjects1= [];
 
 
-gdjs.evtsExt__ObjectStack__ObjectStack.ObjectStack.prototype.MoveIntoContext.userFunc0xa528a0 = function GDJSInlineCode(runtimeScene, objects, eventsFunctionContext) {
+gdjs.evtsExt__ObjectStack__ObjectStack.ObjectStack.prototype.MoveIntoContext.userFunc0xf516e8 = function GDJSInlineCode(runtimeScene, objects, eventsFunctionContext) {
 "use strict";
 const object = objects[0];
 const behaviorName = eventsFunctionContext.getBehaviorName("Behavior");
@@ -748,7 +748,7 @@ gdjs.copyArray(eventsFunctionContext.getObjects("Object"), gdjs.evtsExt__ObjectS
 
 var objects = [];
 objects.push.apply(objects,gdjs.evtsExt__ObjectStack__ObjectStack.ObjectStack.prototype.MoveIntoContext.GDObjectObjects1);
-gdjs.evtsExt__ObjectStack__ObjectStack.ObjectStack.prototype.MoveIntoContext.userFunc0xa528a0(runtimeScene, objects, typeof eventsFunctionContext !== 'undefined' ? eventsFunctionContext : undefined);
+gdjs.evtsExt__ObjectStack__ObjectStack.ObjectStack.prototype.MoveIntoContext.userFunc0xf516e8(runtimeScene, objects, typeof eventsFunctionContext !== 'undefined' ? eventsFunctionContext : undefined);
 
 }
 
@@ -1050,7 +1050,7 @@ gdjs.evtsExt__ObjectStack__ObjectStack.ObjectStack.prototype.ShuffleContext = {}
 gdjs.evtsExt__ObjectStack__ObjectStack.ObjectStack.prototype.ShuffleContext.GDObjectObjects1= [];
 
 
-gdjs.evtsExt__ObjectStack__ObjectStack.ObjectStack.prototype.ShuffleContext.userFunc0xa55060 = function GDJSInlineCode(runtimeScene, objects, eventsFunctionContext) {
+gdjs.evtsExt__ObjectStack__ObjectStack.ObjectStack.prototype.ShuffleContext.userFunc0xf506e8 = function GDJSInlineCode(runtimeScene, objects, eventsFunctionContext) {
 "use strict";
 const object = objects[0];
 const behaviorName = eventsFunctionContext.getBehaviorName("Behavior");
@@ -1066,7 +1066,7 @@ gdjs.copyArray(eventsFunctionContext.getObjects("Object"), gdjs.evtsExt__ObjectS
 
 var objects = [];
 objects.push.apply(objects,gdjs.evtsExt__ObjectStack__ObjectStack.ObjectStack.prototype.ShuffleContext.GDObjectObjects1);
-gdjs.evtsExt__ObjectStack__ObjectStack.ObjectStack.prototype.ShuffleContext.userFunc0xa55060(runtimeScene, objects, typeof eventsFunctionContext !== 'undefined' ? eventsFunctionContext : undefined);
+gdjs.evtsExt__ObjectStack__ObjectStack.ObjectStack.prototype.ShuffleContext.userFunc0xf506e8(runtimeScene, objects, typeof eventsFunctionContext !== 'undefined' ? eventsFunctionContext : undefined);
 
 }
 
@@ -1148,7 +1148,7 @@ gdjs.evtsExt__ObjectStack__ObjectStack.ObjectStack.prototype.HeightOfContext.GDO
 gdjs.evtsExt__ObjectStack__ObjectStack.ObjectStack.prototype.HeightOfContext.GDElementsObjects1= [];
 
 
-gdjs.evtsExt__ObjectStack__ObjectStack.ObjectStack.prototype.HeightOfContext.userFunc0xa550c0 = function GDJSInlineCode(runtimeScene, objects, eventsFunctionContext) {
+gdjs.evtsExt__ObjectStack__ObjectStack.ObjectStack.prototype.HeightOfContext.userFunc0xb21788 = function GDJSInlineCode(runtimeScene, objects, eventsFunctionContext) {
 "use strict";
 const behaviorName = eventsFunctionContext.getBehaviorName("Behavior");
 const behavior = objects[0].getBehavior(behaviorName);
@@ -1164,7 +1164,7 @@ gdjs.copyArray(eventsFunctionContext.getObjects("Object"), gdjs.evtsExt__ObjectS
 
 var objects = [];
 objects.push.apply(objects,gdjs.evtsExt__ObjectStack__ObjectStack.ObjectStack.prototype.HeightOfContext.GDObjectObjects1);
-gdjs.evtsExt__ObjectStack__ObjectStack.ObjectStack.prototype.HeightOfContext.userFunc0xa550c0(runtimeScene, objects, typeof eventsFunctionContext !== 'undefined' ? eventsFunctionContext : undefined);
+gdjs.evtsExt__ObjectStack__ObjectStack.ObjectStack.prototype.HeightOfContext.userFunc0xb21788(runtimeScene, objects, typeof eventsFunctionContext !== 'undefined' ? eventsFunctionContext : undefined);
 
 }
 
@@ -1249,7 +1249,7 @@ gdjs.evtsExt__ObjectStack__ObjectStack.ObjectStack.prototype.HeightContext = {};
 gdjs.evtsExt__ObjectStack__ObjectStack.ObjectStack.prototype.HeightContext.GDObjectObjects1= [];
 
 
-gdjs.evtsExt__ObjectStack__ObjectStack.ObjectStack.prototype.HeightContext.userFunc0xa55060 = function GDJSInlineCode(runtimeScene, objects, eventsFunctionContext) {
+gdjs.evtsExt__ObjectStack__ObjectStack.ObjectStack.prototype.HeightContext.userFunc0xb21688 = function GDJSInlineCode(runtimeScene, objects, eventsFunctionContext) {
 "use strict";
 const behaviorName = eventsFunctionContext.getBehaviorName("Behavior");
 const behavior = objects[0].getBehavior(behaviorName);
@@ -1265,7 +1265,7 @@ gdjs.copyArray(eventsFunctionContext.getObjects("Object"), gdjs.evtsExt__ObjectS
 
 var objects = [];
 objects.push.apply(objects,gdjs.evtsExt__ObjectStack__ObjectStack.ObjectStack.prototype.HeightContext.GDObjectObjects1);
-gdjs.evtsExt__ObjectStack__ObjectStack.ObjectStack.prototype.HeightContext.userFunc0xa55060(runtimeScene, objects, typeof eventsFunctionContext !== 'undefined' ? eventsFunctionContext : undefined);
+gdjs.evtsExt__ObjectStack__ObjectStack.ObjectStack.prototype.HeightContext.userFunc0xb21688(runtimeScene, objects, typeof eventsFunctionContext !== 'undefined' ? eventsFunctionContext : undefined);
 
 }
 
@@ -1448,7 +1448,7 @@ gdjs.evtsExt__ObjectStack__ObjectStack.ObjectStack.prototype.IsEmptyContext = {}
 gdjs.evtsExt__ObjectStack__ObjectStack.ObjectStack.prototype.IsEmptyContext.GDObjectObjects1= [];
 
 
-gdjs.evtsExt__ObjectStack__ObjectStack.ObjectStack.prototype.IsEmptyContext.userFunc0xa55098 = function GDJSInlineCode(runtimeScene, objects, eventsFunctionContext) {
+gdjs.evtsExt__ObjectStack__ObjectStack.ObjectStack.prototype.IsEmptyContext.userFunc0xf4f470 = function GDJSInlineCode(runtimeScene, objects, eventsFunctionContext) {
 "use strict";
 const object = objects[0];
 const behaviorName = eventsFunctionContext.getBehaviorName("Behavior");
@@ -1464,7 +1464,7 @@ gdjs.copyArray(eventsFunctionContext.getObjects("Object"), gdjs.evtsExt__ObjectS
 
 var objects = [];
 objects.push.apply(objects,gdjs.evtsExt__ObjectStack__ObjectStack.ObjectStack.prototype.IsEmptyContext.GDObjectObjects1);
-gdjs.evtsExt__ObjectStack__ObjectStack.ObjectStack.prototype.IsEmptyContext.userFunc0xa55098(runtimeScene, objects, typeof eventsFunctionContext !== 'undefined' ? eventsFunctionContext : undefined);
+gdjs.evtsExt__ObjectStack__ObjectStack.ObjectStack.prototype.IsEmptyContext.userFunc0xf4f470(runtimeScene, objects, typeof eventsFunctionContext !== 'undefined' ? eventsFunctionContext : undefined);
 
 }
 
